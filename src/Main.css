@@ -1,0 +1,120 @@
+.selectedPunk{
+    max-height: 30vh;
+    max-width: min(30vw,40vh);
+    object-fit: contain;
+}
+
+.main{
+    color: white;
+    max-height: 50vh;
+    margin: 10px;
+    width: 95%;
+}
+
+.mainContent{
+    display: flex;
+   
+    padding-bottom: 20px;
+    border-bottom: 1px solid #fff;
+}
+
+.punkAndOwnerDetail{
+    margin-left: 10px;
+}
+
+.punkHighlight{
+    flex: 0.25;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.punkContainer {
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    margin-right: 20px;
+}
+
+.punkDetails{
+    display: flex;
+    align-items: center;
+    flex: 0.75;
+    
+}
+
+.title{
+    font-size: 45px;
+    font-weight: 500;
+    margin-right: 10px;
+    background: linear-gradient(to right,#59f9b7,#66feea);
+    border-radius: 20px;
+    padding: 2px 30px;
+    color: rgb(214, 99, 99);
+    
+}
+
+.itemNumber{
+    color: #a1a5b0;
+    font-size: 70px;
+    align-self: center;
+}
+
+.owner{
+    display: flex;
+    margin-top: 60px;
+    height: 50px;
+    justify-content: space-between;
+}
+
+.owner > div{
+ margin: 0 5px;
+}
+
+.ownerImageContainer{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-radius: 50px;
+    overflow: hidden;
+    object-fit: contain;
+}
+
+.ownerImageContainer > img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.ownerDetails {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    
+}
+
+.ownerNameAndHandle {
+    flex : 1;
+}
+
+.ownerHandle {
+    color: #00ebfe;
+}
+
+.link {
+    display: flex;
+    margin-left: 450px;
+}
+.ownerLink {
+    padding: 12px;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    border: 1px solid #fff;
+    margin-right: 10px;
+}
+
+.ownerLink > img {
+    height: 100%;
+    width: 100%;
+}
