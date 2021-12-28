@@ -1,8 +1,8 @@
 👉  How to use React JS to build the Frontend of a Web Application
+
 👉  How to use thirdweb to build the backend needed for an Ethereum APP
 
-
-
+![React-App-and-7-more-pages-Perso](https://user-images.githubusercontent.com/91277635/147559637-aa11abfa-5c41-45ab-92ce-c02bdc18a5a1.gif)
 
 
 
