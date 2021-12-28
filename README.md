@@ -2,8 +2,7 @@
 
 👉  How to use thirdweb to build the backend needed for an Ethereum APP
 
-![React-App-and-7-more-pages-Perso](https://user-images.githubusercontent.com/91277635/147559637-aa11abfa-5c41-45ab-92ce-c02bdc18a5a1.gif)
-
+![React App and 7 more pages - Personal - Microsoft_ Edge 2021-12-26 17-14-29](https://user-images.githubusercontent.com/91277635/147560473-cd0b0c4d-d035-446b-8f8b-1c96e08ff4f5.gif)
 
 
 
